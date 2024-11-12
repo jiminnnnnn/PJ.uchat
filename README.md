@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 <br/>
 
 ## ⚡참고자료
-### 	1.참고 사이트
+#### 	1.참고 사이트
 <https://www.notion.so/be6863e600af4dab8491a1a9cf98c165>
-### 	2.발표자료
+#### 	2.발표자료
  
