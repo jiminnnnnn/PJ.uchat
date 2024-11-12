@@ -30,7 +30,11 @@ Here are some ideas to get you started:
 	신지민 : 챗gpt api 연동, 챗봇 gui 제작, 프롬프트 작성
 
 ## ⚡사용기술
-### 	스킬 : api, 챗봇 기술
+### 프로그래밍 언어: Python 
+### 대규모 언어 모델 (LLM): OpenAI API (ChatGPT API) 
+### API 활용 및 연동: RESTful API 설계 및 호출, OpenAI API 
+### 통합 챗봇 개발: 챗봇 GUI 설계 및 구현 (Tkinter 또는 PyQt 등 활용 가능) 
+### 프롬프트 엔지니어링: 효과적인 ChatGPT 프롬프트 작성 및 최적화
 
 ## ⚡핵심기능
 ### 	1. 강의계획서 업로드 혹은 강의계획서 db에서 가져오기?
