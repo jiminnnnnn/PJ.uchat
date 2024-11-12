@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 ## 👋 강의계획서 챗봇
 강의계획서를 기반으로 내용 정리 및 관련 문서나 문제 생성 등 추가적인 기능을 하는 챗봇 제작
 <br/>
+
+[![image](https://github.com/user-attachments/assets/7b541827-ad9d-4815-908d-0858dfc1fd2c)](<https://github.com/jiminnnnnn/PJ.uchat>)
 <br/>
 
 ## 🌱 프로젝트 정보
