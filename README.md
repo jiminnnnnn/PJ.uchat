@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 	신지민
  	송호준
   	황윤호
-### 3.역할분담
-	신지민 : 챗gpt api 연동, 챗봇 gui 제작, 프롬프트 작성
+### 3.역할
+	챗gpt api 연동, 챗봇 gui 제작, 프롬프트 작성
 <br/>
 <br/>
 
