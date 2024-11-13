@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 
 <br/>
 <br/>
+
 ## ⚡작업
 #### 1. 챗봇 간단 GUI 설계 및 구현
 #### 2. API를 활용해 챗 GPT 연결
