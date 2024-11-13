@@ -54,6 +54,8 @@ Here are some ideas to get you started:
 #### 4. GRADIO를 통해 GUI 생성
 #### 5. 프롬프트 작성 및 수정
 
+<br/>
+<br/>
 
 ## ⚡핵심기능
 #### 	1. 강의계획서 업로드 혹은 강의계획서 db에서 가져오기?
