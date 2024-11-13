@@ -36,11 +36,14 @@ Here are some ideas to get you started:
 <br/>
 
 ## ⚡사용기술
-#### 프로그래밍 언어: Python 
-#### 대규모 언어 모델 (LLM): OpenAI API (ChatGPT API) 
-#### API 활용 및 연동: RESTful API 설계 및 호출, OpenAI API 
-#### 통합 챗봇 개발: 챗봇 GUI 설계 및 구현 (Tkinter 또는 PyQt 등 활용 가능) 
-#### 프롬프트 엔지니어링: 효과적인 ChatGPT 프롬프트 작성 및 최적화
+### 프로그래밍 언어: Python
+### 대규모 언어 모델 (LLM): OpenAI API (ChatGPT API)
+### API 활용 및 연동: RESTful API 설계 및 호출, OpenAI API
+### 통합 챗봇 개발: 챗봇 GUI 설계 및 구현 (Tkinter 또는 PyQt 등 활용 가능)
+### 프롬프트 엔지니어링: 효과적인 ChatGPT 프롬프트 작성 및 최적화
+### Gradio: OpenAI API와 통합하여 강의 계획서 요약, 기출 문제 생성 등을 위한 웹 기반 챗봇 GUI 생성
+### Pinecone: 기출 문제 및 관련 데이터셋을 벡터화하여 빠른 유사도 검색 및 질문-답변 매칭
+
 <br/>
 <br/>
 ## ⚡작업
