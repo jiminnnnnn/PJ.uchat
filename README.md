@@ -43,6 +43,9 @@ Here are some ideas to get you started:
 #### 프롬프트 엔지니어링: 효과적인 ChatGPT 프롬프트 작성 및 최적화
 <br/>
 <br/>
+## ⚡작업
+
+
 
 ## ⚡핵심기능
 #### 	1. 강의계획서 업로드 혹은 강의계획서 db에서 가져오기?
