@@ -56,6 +56,8 @@ Here are some ideas to get you started:
 
 <br/>
 <br/>
+![image](https://github.com/user-attachments/assets/9b1b5207-841b-4019-9e9d-1d105c5506f7)
+![image](https://github.com/user-attachments/assets/cfecd743-cb51-414b-8c8a-fbaf193f3613)
 
 ## ⚡핵심기능
 #### 	1. 강의계획서 업로드 혹은 강의계획서 db에서 가져오기?
