@@ -47,7 +47,11 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 ## ⚡작업
-
+#### 1. 챗봇 간단 GUI 설계 및 구현
+#### 2. API를 활용해 챗 GPT 연결
+#### 3. PINECONE을 활용해 데이터베이스 연결
+#### 4. GRADIO를 통해 GUI 생성
+#### 5. 프롬프트 작성 및 수정
 
 
 ## ⚡핵심기능
