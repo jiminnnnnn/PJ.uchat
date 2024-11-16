@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 ![image](https://github.com/user-attachments/assets/cfecd743-cb51-414b-8c8a-fbaf193f3613)
 
 ## ⚡핵심기능
-#### 	1. 강의계획서 업로드 혹은 강의계획서 db에서 가져오기?
+#### 	1. 강의계획서 업로드 혹은 강의계획서 db에서 가져오기
 #### 	2. 강의계획서 내용 기반으로 강의계획서 정리
 #### 	3. 강의계획서 내용 기반으로 질의응답
 #### 	4. 강의계획서 내용 기반으로 참고자료나 예상 문제 등 생성
